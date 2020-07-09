@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RegFormCheck</string>
+    <string name="text_hint_login">Login</string>
+    <string name="text_hint_password">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnReg">Registration</string>
+    <string name="fill_blanks">Заполните поля</string>
+    <string name="success_reg">Регистрация успешна</string>
+    <string name="no_access">Неверный логин или пароль</string>
+    <string name="access">Верный логин и пароль</string>
+    <string name="check_value">Хранить логин во внешнем хранилище</string>
+    <string name="internal_storage">Данные сохранены во внутреннем хранилище</string>
+    <string name="external_storage">Данные сохранены во внешнем хранилище</string>
+    <string name="not_run_request">Не выполнен run_request_code</string>
+    <string name="read_external_storage">Чтение из внешнего хранилища</string>
+    <string name="read_internal_storage">Чтение из внутреннего хранилища</string>
+</resources>
